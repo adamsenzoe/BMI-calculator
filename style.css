@@ -1,0 +1,49 @@
+.container {
+    padding: 10px;
+    max-width: 400px;
+    margin: 10px auto;
+    text-align: center;
+    background-color: lightseagreen;
+    border-radius: 10px;
+}
+
+body {
+    background-image: url(images/nature.jpg);
+}
+
+img {
+    border-radius: 10px;
+}
+
+input {
+    text-align: center;
+    width: 70%;
+    height: 20px;
+    padding: 5px;
+    border: 2px solid darkgreen;
+}
+
+input,
+button {
+    margin: 10px 0;
+    border-radius: 10px;
+}
+
+
+.btn-hitung {
+    color: white;
+    background-color: green;
+    padding: 10px 20px;
+}
+
+.btn-reset {
+    color: white;
+    background-color: red;
+    padding: 10px 35px;
+}
+
+#result {
+    margin-top: 10px;
+    font-weight: bold;
+    color: yellow;
+}
